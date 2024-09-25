@@ -7,7 +7,7 @@
 [![](https://visitcount.itsvg.in/api?id=PradeepAbburi&icon=0&color=12)](https://visitcount.itsvg.in)
 ---
 # 💫 About Me
-🔭 I’m currently working on Mern Stack Develpment<br>🌱 I’m currently learning Azure Devops<br>💬 Ask me about Learning<br>⚡ Fun fact "i'm Pradeep"
+🔭 I’m currently working on Mern Stack Develpment<br>🌱 I’m currently learning Azure Devops<br>💬 Ask me about Learning<br>⚡ Fun fact "I'm Pradeep"
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
